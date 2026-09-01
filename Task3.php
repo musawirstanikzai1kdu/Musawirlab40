@@ -1,5 +1,5 @@
 <?php
-// Musawirullah Stanikzai - 1234
+// Musawirullah Stanikzai - 40
 
 // Task 3
 abstract class Vehicle {
