@@ -1,5 +1,5 @@
 <?php
-// Musawirullah Stanikzai - 1234
+// Musawirullah Stanikzai - 40
 
 // Task 2
 class StudentCounter {
